@@ -1,0 +1,73 @@
+            body {
+                background-color: rgba(233, 205, 46, 0.892);
+            }
+
+            .titulo {
+                color: rgb(255, 118, 27);
+                text-align: center;
+            }
+
+            .produto1 {
+                width: 350px;
+                position: relative;
+                left: 580px;
+                height: 100%;
+                top: 100px;
+                border-radius: 50px;
+            }
+
+            .decoracao1 {
+                width: 350px;
+                position: relative;
+                right: 400px;
+                top: -200px;
+            }
+            .decoracao2 {
+                width: 350px;
+                position: relative;
+                left: 26%;
+                top: -250px;
+                transform: rotate(60deg);
+            }
+            .compreaqui {
+                display: inline-block;
+                padding: 10px 20px;
+                font-size: 16px;
+                text-align: center;
+                text-decoration: none;
+                cursor: pointer;
+                border: 2px solid rgb(255, 118, 27);
+                color: rgb(255, 118, 27);
+                background-color: rgb(255, 237, 43);
+                border-radius: 5px;
+                transition: background-color 0.5s ease, color 0.5s ease;
+                position: relative;
+                top: 150px;
+                right: 400px;
+    }
+
+   
+            .compreaqui:hover {
+                background-color: #ff0000;
+                color: white;
+            }
+
+            .titulo2 {
+                text-align: center;
+                position: relative;
+                top: 130px;
+                color: rgb(255, 118, 27);
+            }
+
+            .decoracao3 {
+                position: relative;
+                width: 15%;
+                top: 40px;
+                right:1000px;
+            }
+            .decoracao4 {
+                position: relative;
+                left: 1100px;
+                width: 12%;
+                top: -220px;
+            }
