@@ -19,13 +19,13 @@
             .decoracao1 {
                 width: 350px;
                 position: relative;
-                right: 400px;
+                right: 300px;
                 top: -200px;
             }
             .decoracao2 {
                 width: 350px;
                 position: relative;
-                left: 26%;
+                left: 10%;
                 top: -250px;
                 transform: rotate(60deg);
             }
